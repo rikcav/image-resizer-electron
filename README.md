@@ -18,7 +18,7 @@ This is a simple image resizer application built with pure JavaScript, Electron,
 2. Select an image file to resize.
 3. Specify the dimensions for resizing.
 4. Click the "Resize" button to resize the image.
-5. Check the notifications for the status of the resizing process.
+5. Check the directory to see the resulting resized image.
 
 ## Libraries Used
 
